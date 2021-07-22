@@ -1,7 +1,7 @@
 # Introduccion_estadistica_econometria
 
-                                                                                                                                                  ## David Echeverría
-                                                                                                                                                  ## correo: dhecheverria@gmail.com
+## David Echeverría, Econ.,Msc.
+## correo: dhecheverria@gmail.com
 
 The Economist, decía en uno de sus titulares “Los datos están dando lugar a una nueva economía” [1]. Por otra parte, Forbes mencionaba “Los datos son el nuevo petróleo, y eso es algo bueno” [2]. En este contexto, los profesionales contemporáneos no están exentos de la necesidad de desarrollar competencias en el manejo de datos, lo que puede variar es el nivel de profundidad y destrezas que se requieran, dependiendo de la especialidad.
 
