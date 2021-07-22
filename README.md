@@ -14,10 +14,11 @@ Este repositorio tiene por objetivo brindar al estudiante los materiales y códi
 Bienvenidos a este mundo apasionante de la analítica avanzada.
 
 # Referencias 
+
 **Libros**
 
 - Triola, M. F. (2009). Estadística (10th ed.). Pearson Educación.
-- 
+
 - Wooldridge, J. M. (2009). Introducción a la econometría. Un enfoque moderno (4a. edición). Cengage Learning.
 
 **Páginas web**
