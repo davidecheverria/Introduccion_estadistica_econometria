@@ -1,4 +1,4 @@
-# Introduccion a la estadistica y a la econometría
+# Introduccion a la estadística y a la econometría
 
 ## David Echeverría, Econ.,Msc.
 ## correo: dhecheverria@gmail.com
