@@ -13,6 +13,23 @@ Este repositorio tiene por objetivo brindar al estudiante los materiales y códi
 
 Bienvenidos a este mundo apasionante de la analítica avanzada.
 
+
+# Video tutorial descarga de R y RStudio
+
+https://cutt.ly/YQrDTVR
+
+
+# Vínculos de descarga
+R
+
+https://cran.r-project.org/bin/windows/base/
+
+RStudio https://www.rstudio.com/products/rstudio/download/#download
+
+Rtools
+
+https://cran.r-project.org/bin/windows/Rtools/
+
 # Referencias 
 
 **Libros**
