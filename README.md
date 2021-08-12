@@ -1,4 +1,4 @@
-# Introduccion a la estadistica y a la econometría
+# Introduccion a la estadística y a la econometría
 
 ## David Echeverría, Econ.,Msc.
 ## correo: dhecheverria@gmail.com
@@ -12,6 +12,23 @@ La estadística se define como el “conjunto de métodos para planear estudios 
 Este repositorio tiene por objetivo brindar al estudiante los materiales y códigos que se han planificado para el desarrollo de este curso.
 
 Bienvenidos a este mundo apasionante de la analítica avanzada.
+
+
+# Video tutorial descarga de R y RStudio
+
+https://cutt.ly/YQrDTVR
+
+
+# Vínculos de descarga
+R
+
+https://cran.r-project.org/bin/windows/base/
+
+RStudio https://www.rstudio.com/products/rstudio/download/#download
+
+Rtools
+
+https://cran.r-project.org/bin/windows/Rtools/
 
 # Referencias 
 
